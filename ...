@@ -18,19 +18,16 @@ body {
 <body>
 
 <div class="content">
-  <h1>This page is horizontally centered on screens that are wider than 500 pixels.</h1>
-  <h1>Resize the browser window to see the effect.</h1>
-  <p>This page is always centered on screens that are wider than 500px. On screens that are less than 
-  500px wide, it will span the whole of the page.</p>
-  <p>Content inside this container is centered horizontally.</p>
-  <p>Content inside this container is centered horizontally.</p>
-  <p>Content inside this container is centered horizontally.</p>
-  <p>Content inside this container is centered horizontally.</p>
-  <p>Content inside this container is centered horizontally.</p>
-  <p>Content inside this container is centered horizontally.</p>
-  <p>Content inside this container is centered horizontally.</p>
-  <p>Content inside this container is centered horizontally.</p>
-  <p>Content inside this container is centered horizontally.</p>
+  <h1>TIME TABLE FOR B.E CSE-A </h1>
+  <p>MONDAY TUESDAY WEDNESDAY THURSDAY FRIDAY</p>
+  <p>PIP</p>
+  <p>DM</p>
+  <p>DM</p>
+  <p>PIS</p>
+  <p>PE</p>
+  <p>EPSD</p>
+  <p>PIP</p>
+  <p>EPSD------</p>
 </div>
 
 </body>
