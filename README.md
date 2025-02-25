@@ -1,6 +1,5 @@
 <html>
-  <title>
-      <h1>title<h1>
-    </title>
-      </h1>
+  <body>
+      <h1>title</h1>
+    </body>
 </html>
